@@ -10,5 +10,5 @@
 Please download the required files through the following link:
 https://drive.google.com/drive/folders/1fxkJiGCIFGuqb84tDNB70ediwrYcSlj7?usp=sharing
 
-## Results and performances
+## Results 
 ![image](https://github.com/zakky211/Object_Detection_with_YOLO_and_Faster_RCNN/assets/62234134/4ba7a429-4965-48a8-b6e1-7ea88a78904e)
